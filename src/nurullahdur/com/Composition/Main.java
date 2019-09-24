@@ -20,6 +20,5 @@ public class Main {
         thePc.getMonitor().drawPixelAt(1500,1200,"blue");
         thePc.getMotherBoard().loadProgram("Windiows 10");
 
-
     }
 }
