@@ -1,4 +1,4 @@
-package nurullahdur.com.ArrayListBasketApp;
+package nurullahdur.com.ArrayListApp.BasketApp;
 
 import java.util.ArrayList;
 
