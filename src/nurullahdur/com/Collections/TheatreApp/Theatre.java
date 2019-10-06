@@ -2,9 +2,6 @@ package nurullahdur.com.Collections.TheatreApp;
 
 import java.util.*;
 
-/**
- * Created by dev on 2/12/2015.
- */
 public class Theatre {
     private final String theatreName;
     private List<Seat> seats = new ArrayList<>();
