@@ -1,4 +1,4 @@
-package nurullahdur.com.Threads.ThreadsBasicApp.CounterForThread;
+package nurullahdur.com.Threads.ArrayBlockingQueue;
 
 public class ThreadColor {
 
